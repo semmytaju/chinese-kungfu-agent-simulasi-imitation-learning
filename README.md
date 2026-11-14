@@ -1,6 +1,31 @@
-# Kungfu Agent AI — IMITATION LEARNING (LEARNING BY DEMONSTRATION)
+# Kungfu Agent AI
 
-A real-time browser-based AI humanoid motion imitation studio where **Kungfu Agent AI** learns Chinese Kung Fu stances, strikes, and airborne jumping kicks from human demonstrations via webcam or Quick Pose Pad using **Dual-Head Behavior Cloning**, and reproduces them autonomously without requiring the webcam.
+A real-time browser-based AI humanoid motion imitation studio using IMITATION LEARNING (LEARNING BY DEMONSTRATION) where **Kungfu Agent AI** learns Chinese Kung Fu stances, strikes, and airborne jumping kicks from human demonstrations via webcam or Quick Pose Pad using **Dual-Head Behavior Cloning**, and reproduces them autonomously without requiring the webcam.
+
+---
+
+## 1 - Real-time Human Demonstration
+
+![Preview Simulasi Robot](images/review1.png)
+
+---
+
+## 2. Behavior Cloning Training
+
+![Preview Simulasi Robot](images/review2.png)
+
+---
+
+## 3. Autonomous Agent (Zero Webcam)
+
+![Preview Simulasi Robot](images/review3.png)
+
+---
+
+## 4. 3D Environments (Settings -> Live Preview & Apply)
+
+![Preview Simulasi Robot](images/review4.png)
+
 
 ---
 
